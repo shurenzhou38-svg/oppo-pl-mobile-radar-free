@@ -266,7 +266,7 @@ def ai_report(items):
 五、友商新品与OPPO同档位产品对比线索
 要求：
 1. 只收集过去7天内发布或确认即将上市的友商新品。
-2. 每天最多2款。
+2. 每天严格输出最多2款。
 3. 友商范围包括但不限于：
 Samsung, Xiaomi, Redmi, realme, Honor, Motorola, vivo, OnePlus, Nothing, Apple, Google Pixel。
 4. 不只是说“某产品发布”，必须选择一个OPPO同档位、同类型、可对标的产品做简单对比。
